@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Meena
+- 👀 I’m interested in java
+- 🌱 I’m currently learning spring boot
+- 💞️ I’m looking to collaborate on anything fun
+- 📫 How to reach me gmail: meenabj03@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: 0_o
