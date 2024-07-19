@@ -2,5 +2,5 @@
 - 👀 I’m interested in java
 - 🌱 I’m currently learning jhipter
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me gmail: meenabj03@gmail.com
+- 📫 How to reach me mail id
 - 😄 Pronouns: she/her
