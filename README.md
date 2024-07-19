@@ -2,5 +2,5 @@
 - 👀 I’m interested in java
 - 🌱 I’m currently learning jhipter
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me mail id
+- 📫 How to reach me in my LinkedIn id.
 - 😄 Pronouns: she/her
