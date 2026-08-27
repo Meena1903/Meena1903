@@ -1,38 +1,86 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=meena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+<!-- Banner / Header (optional - you can replace with your own image or GIF) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Meena+%F0%9F%91%8B;Gen+AI+Engineer;Building+Intelligent+Systems;LLMs+%7C+RAG+%7C+Agents" alt="Typing SVG" />
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Gen+AI+%2F+LLM+Engineer;LangGraph+%7C+AutoGen+%7C+RAG+Pipelines;Agentic+Systems+%40+Scale&font=Fira+Code&center=true&width=500&height=40&color=6a11cb&vCenter=true&size=20&pause=1800)
+<br/>
 
-I build agentic LLM systems — orchestration, RAG/document-extraction pipelines, and guardrailed, observable model outputs in production.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-## Stack
+---
 
-**LLM / Agentic**
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![DSPy](https://img.shields.io/badge/DSPy-4B0082?style=flat-square)
-![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-2E8B57?style=flat-square)
-![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=flat-square)
+### 👩‍💻 About Me
 
-**Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+Hey there! I'm **Meena**, a **Gen AI Engineer** passionate about building intelligent systems that actually ship.
 
-**Infra & Frontend**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+I work with Large Language Models, Retrieval-Augmented Generation (RAG), AI Agents, and modern ML pipelines. I love turning research ideas into production-ready applications.
 
-## Stats
+- 🔭 Currently exploring: Multi-agent systems, advanced RAG architectures & LLM evaluation
+- 🌱 Learning: LLMOps, fine-tuning techniques & agentic workflows
+- 💬 Ask me about: Prompt engineering, vector databases, LangChain/LlamaIndex, or deploying AI apps
+- ⚡ Fun fact: I debug prompts the same way I debug code — with way too much coffee ☕
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak Stats](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-## Contribution Graph, Reanimated
+### 🛠️ Tech Stack
 
-![snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg)
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools & Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Replace with your real projects -->
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/repo1)** | Short description of what it does (e.g. RAG chatbot for docs) | LangChain · OpenAI · FastAPI |
+| **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/repo2)** | Another cool GenAI project | LlamaIndex · Vector DB · Agents |
+| **[Project Name 3](https://github.com/YOUR_GITHUB_USERNAME/repo3)** | Something production-ready | Python · Docker · AWS |
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+
+---
+
+<div align="center">
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/assets/wave.gif" width="40" alt="wave" /> 
+  Thanks for stopping by! Feel free to star ⭐ any of my repos or drop a hello.
+</div>
