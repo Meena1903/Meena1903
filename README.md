@@ -1,4 +1,4 @@
-<!-- Banner / Header (optional - you can replace with your own image or GIF) -->
+<!-- Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Meena+%F0%9F%91%8B;Gen+AI+Engineer;Building+Intelligent+Systems;LLMs+%7C+RAG+%7C+Agents" alt="Typing SVG" />
 </div>
@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Meena1903&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
@@ -47,29 +47,28 @@ I work with Large Language Models, Retrieval-Augmented Generation (RAG), AI Agen
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meena1903&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meena1903&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Using the more reliable demolab endpoint for streak -->
+  <img src="https://streak-stats.demolab.com?user=Meena1903&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
-<!-- Replace with your real projects -->
+<!-- ### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Project Name 1](https://github.com/YOUR_GITHUB_USERNAME/repo1)** | Short description of what it does (e.g. RAG chatbot for docs) | LangChain · OpenAI · FastAPI |
-| **[Project Name 2](https://github.com/YOUR_GITHUB_USERNAME/repo2)** | Another cool GenAI project | LlamaIndex · Vector DB · Agents |
-| **[Project Name 3](https://github.com/YOUR_GITHUB_USERNAME/repo3)** | Something production-ready | Python · Docker · AWS |
+| **[Project Name 1](https://github.com/Meena1903/repo1)** | Short description of what it does (e.g. RAG chatbot for docs) | LangChain · OpenAI · FastAPI |
+| **[Project Name 2](https://github.com/Meena1903/repo2)** | Another cool GenAI project | LlamaIndex · Vector DB · Agents |
+| **[Project Name 3](https://github.com/Meena1903/repo3)** | Something production-ready | Python · Docker · AWS |
 
----
+--- -->
 
 ### 📫 Let's Connect
 
@@ -81,6 +80,5 @@ I work with Large Language Models, Retrieval-Augmented Generation (RAG), AI Agen
 ---
 
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/main/assets/wave.gif" width="40" alt="wave" /> 
   Thanks for stopping by! Feel free to star ⭐ any of my repos or drop a hello.
 </div>
