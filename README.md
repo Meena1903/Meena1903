@@ -60,22 +60,22 @@ I work with Large Language Models, Retrieval-Augmented Generation (RAG), AI Agen
 
 ---
 
-<!-- ### 🚀 Featured Projects
-
+### 🚀 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[Project Name 1](https://github.com/Meena1903/repo1)** | Short description of what it does (e.g. RAG chatbot for docs) | LangChain · OpenAI · FastAPI |
-| **[Project Name 2](https://github.com/Meena1903/repo2)** | Another cool GenAI project | LlamaIndex · Vector DB · Agents |
-| **[Project Name 3](https://github.com/Meena1903/repo3)** | Something production-ready | Python · Docker · AWS |
+| **[BuildIQ AI Takeoff Engine](https://github.com/Meena1903/material-calculation-platform-for-dxf-files)** | Automated pile foundation takeoff from CAD/PDF drawings — concrete, steel (BBS), and manpower estimation with a 2D CAD viewer | Python · FastAPI · React · ezdxf · NVIDIA NIM |
+| **[Interest Graph Engine](https://github.com/Meena1903/Interest-graph)** | Full-stack POC for interest-driven feed ranking, club/vendor recommendations, and graph-based trust propagation | FastAPI · React · NetworkX · NVIDIA NIM |
+| **Healthcare Document Intelligence Platform** | An asynchronous OCR and structured-extraction pipeline for medical records | LangGraph |
+| **Event Photo Distribution** | A serverless way to send event attendees the photos they actually appear in | AWS Rekognition |
 
---- -->
+---
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 <!-- [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)-->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)-->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://meena-bj.pages.dev/)
 
 ---
 
